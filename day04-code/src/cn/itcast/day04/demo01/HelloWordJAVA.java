@@ -5,7 +5,11 @@ import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 public class HelloWordJAVA {
     public static void main(String[] args) {
         System.out.println("wwo ai java");
-    }
+        tese();
     }
 
+    public static void tese(){
+        System.out.println(11);
+    }
 
+}
